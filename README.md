@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Welcome 
+## My name is Ola
 
 # 💫 About Me:
 Currently working on building DeFi Applications.<br>Looking to collaborate with any interested party.<br>Opened to mentorship and partnership.<br>Learning Web3, Blockchian, Solidity, DApps.<br>Learnable, teachable, curious minded, passionate about technology,<br>web3, Defi, crypto enthusiast, Always leaning towards growth and development.<br>
